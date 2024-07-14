@@ -4,16 +4,16 @@ import FloatingLabel from 'react-bootstrap/FloatingLabel';
 
 const ContactUs = () => {
     return (
-        <section className="d-flex flex-column vh-100  justify-content-center" style={{ backgroundColor: "#040825" ,padding: "20%", marginTop:-100}}>
+        <section className="d-flex flex-column vh-100  justify-content-center" style={{ backgroundColor: "#B0E0E6" ,padding: "20%", marginTop:-100}}>
 
-            <p className="text-white" style={{ marginLeft: 30, fontSize: 15 }}>GET IN TOUCH</p>
-            <h1 className="text-white" style={{ marginLeft: 30, marginTop: -20 }}>Contact Us</h1>
+            <p className=" " style={{ marginLeft: 30, fontSize: 15,color:"#00008B" }}>GET IN TOUCH</p>
+            <h1 className=" " style={{ marginLeft: 30, marginTop: -20,color:"#00008B" }}>Contact Us</h1>
 
             <div className="d-flex align-items-center justify-content-around">
 
                 <div className="d-flex flex-column">
-                    <p style={{color: "#FFFFFF" , fontSize: 20}}>&#9743;    +91 12098937829</p>
-                    <p style={{color: "#FFFFFF", fontSize: 20}}>&#9993;    admin@tripverse.com</p> 
+                    <p style={{color: "#00008B" , fontSize: 20}}>&#9743;    +91 12098937829</p>
+                    <p style={{color: "#00008B", fontSize: 20}}>&#9993;    travel_guide_SUHANI@gmail.com</p> 
 
                 </div>
 

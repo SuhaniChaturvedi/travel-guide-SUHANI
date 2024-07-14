@@ -8,9 +8,9 @@ function Foter() {
             <div className="contact-us">
             <h3>Contact Us</h3>
             <ul>
-                <li>123 Main St.</li>
-                <li>Anytown, USA 12345</li>
-                <li>Email: info@tripverse.com</li>
+                <li>IIIT SONEPAT.</li>
+                <li>DELHI</li>
+                <li>Email: travel_guide_SUHANI.com</li>
                 <li>Phone: 555-555-5555</li>
             </ul>
             </div>
@@ -31,7 +31,7 @@ function Foter() {
             </ul>
             </div>
         </div>
-        <p className="text-center">&copy; 2023 Trip Verse. All Rights Reserved.</p>
+        <p className="text-center">&copy; 2024 travel guide SUHANI. All Rights Reserved.</p>
         </footer>
     );
     }
